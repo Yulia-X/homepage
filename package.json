@@ -2,6 +2,7 @@
   "name": "@figma/my-make-file",
   "private": true,
   "version": "0.0.1",
+  "homepage": "https://yulia-x.github.io/homepage",
   "type": "module",
   "scripts": {
     "build": "vite build",
