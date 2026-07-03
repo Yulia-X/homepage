@@ -82,7 +82,11 @@ export default function App() {
               <SectionTitle>💼 Work Experience</SectionTitle>
               <div className="space-y-8">
                 <TimelineItem 
-                  date="2024.06 - Now"
+                  date="2026.07 - Now"
+                  title="AI Eval Product Manager"
+                  subtitle="ByteDance"                />
+                <TimelineItem 
+                  date="2024.11 - 2026.6"
                   title="AI Product Manager"
                   subtitle="Alibaba · Taobao & Tmall Group"                />
                 <TimelineItem 
